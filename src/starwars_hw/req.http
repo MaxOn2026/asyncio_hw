@@ -1,0 +1,3 @@
+### GET request to example server
+GET https://www.swapi.tech/api/people/2
+###
